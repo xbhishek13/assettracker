@@ -1,1 +1,34 @@
-hello everyone except Dumbass  Abhishek
+Hello Everyone This is the instruction file for FSD Project !!!
+
+Kindly update for any new instructions over here :
+
+
+
+Use of MERN Stack
+Only one login page
+
+different level of access for different people
+
+
+administrative - Can access all
+worker - view only
+
+
+How many pages for every user ?
+
+
+
+Dashboard - ko ekdam badhiya banana hai
+	  - smart kaam karna hai
+          - kam time hai
+
+bluebox - website - for UI suggestions and ideas
+
+
+For every building - have the rooms according to the building
+		   - Eg : For Dhruv - DR101, 102, 103, 104, 105
+			: For Kashyap - KS101,KS102,.....
+
+
+which one to use MERN, Compass, etc.
+
